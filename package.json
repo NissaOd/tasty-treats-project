@@ -11,11 +11,6 @@
         "type": "git",
         "url": "git+https://github.com/NissaOd/tasty-treats-project"
     },
-
-
-
-
-
     "dependencies": {
         "axios": "^1.4.0",
         "hbs": "^4.2.0",
