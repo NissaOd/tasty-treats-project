@@ -1,0 +1,33 @@
+//  BASE ///
+@import './base/common.scss';
+@import './base/reset.scss';
+@import './base/dark_theme.scss';
+
+
+// COMPONENTS ///
+@import './components/container.scss';
+
+
+
+// LAYOUT ///
+@import './layout/header.scss';
+@import './layout/index/hero_modal.scss';
+@import './layout/favorite/card-favorite.scss';
+@import './layout/favorite/categories-button.scss';
+@import './layout/favorite/main-favorite.scss';
+@import './layout/index/cards.scss';
+@import './layout/modal-rating.scss';
+@import './layout/index/scroll_to_top.scss';
+@import './layout/pagination.scss';
+@import './layout/index/teamModal.scss';
+
+
+
+
+@import './layout/modal-recipe.scss';
+@import './layout/footer.scss';
+
+
+// UTILS ///
+@import './utils/variable.scss';
+@import './utils/vh.scss';
